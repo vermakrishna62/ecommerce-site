@@ -1,0 +1,67 @@
+
+Mobile Database
+
+	1. Samsung
+
+		Entities :-
+
+			1. id	2. gadget_type	3. model_type	4. model_name	5. img_name	  6. RAM	7. Internal Storage
+
+			8. Exapndable memory	9. Display Size  10. Primary Camera 12. Secondary Camera  13. Android System 
+
+			14. Battery    15. Processor type   16. Network type.
+
+	2. Laptop
+
+		Entities :-
+
+			1. id	2. gadget_type	3. laptop_model	 4. model_name  5. img_name	 6. processor_brand
+
+			7. processor_name  8. processor_generation  9. RAM  10. hard_disk_size  11. os_bit
+
+			12. operating_system  13. display_size  14. screen_resolution  15. waranty
+
+	3. Television
+
+		Entities :-
+
+			1. id	2. gadget_type	3. laptop_model	 4. model_name  5. img_name	 
+			6. prod_price   7. display_size(inches)  8. color  9. screen_type  
+			10. hdmi  11. usb  12. ocessor 13. storage_memory
+			14. speaker_type 15. internet access 16. dimension 17. waranty
+
+	4. Accesories
+
+	5. Home Appliances
+
+		1. Fan
+
+			1. id	2. gadget_type  3. model_type   4. model_name  
+			5. img_name   6. prod_price   7. motor_speed  
+			8. power_consumption  9. blade_sweep_size
+			10. no_speed_setings  11. color  12. waranty
+
+		2. iron
+
+			1. id	2. gadget_type  3. model_type   4. model_name  
+			5. img_name   6. prod_price   7. color  8. power_consumption 
+			9. Frequency  10.  power_input   11. waranty
+
+		3. Air Cooler
+
+			1. id	2. gadget_type  3. model_type   4. model_name  
+			5. img_name   6. prod_price  7.  color
+			7. cooling_area   8. height    9.  tank_capacity    
+			10.  power_consumption	11. speed_settings   12.  waranty
+
+		4. Vaccum Cleaner
+
+
+
+		id	gadget_type		model_type	brand_name	model_name		   folder_name  img_name
+
+		1	Home Appliance  fan         bajaj       Harrier Anti-Germ   harrier      harrier-1-1.jpeg
+													Bye-Bye Dust
+
+			
+		

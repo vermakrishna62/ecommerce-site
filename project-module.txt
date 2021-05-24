@@ -1,0 +1,21 @@
+Project Modules
+
+1. User	Registration, User Login, Admin Login, Forgot Password Module
+2. Product Search Box & Session Management
+3. Mobile Items & its sub-modules
+4. Laptop Items & its sub-modules
+5. Television Items & its sub-modules
+6. Accessories & its sub-modules
+7. Home Appliances & its sub-modules
+8. Kitchen Appliances & its sub-modules
+9. Shopping Cart Module
+10. Product Order Module
+11. User Data Management
+12. Product Data Management
+13. Admin Data Management
+14. Dashboard Module
+15. Admin Profile Panel
+16. User Profile Panel
+17. Statistics of User,Product data
+18. Developers Profile Management, Terms & Policy Module
+
