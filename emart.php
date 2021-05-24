@@ -2,9 +2,6 @@
 <?php  
 
 	session_start();
-
-	if(isset($_SESSION['username']))
-	{
 ?>
 
 
@@ -1910,20 +1907,5 @@
 
 </body>
 </html>
-                               		
 
-<?php
-
-	}
-	else
-	{
-?>
-
-	<script type="text/javascript">
-		alert("Session Logout");
-	</script>
-
-<?php
-	}
-?>
 
