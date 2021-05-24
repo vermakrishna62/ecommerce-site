@@ -30,5 +30,5 @@
 	else
 		echo "not";
 
-	header("location:mycart.php");
+	header("location:myCart.php");
 ?>
