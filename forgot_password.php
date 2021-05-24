@@ -1,7 +1,7 @@
 <!-- <?php  
 
    // emart_login_data database
-   $conn = mysqli_connect("localhost","root",'',"emart_login_data");
+   $conn = mysqli_connect("remotemysql.com","0mR1uZnpZd","QgKv6zXjnJ","0mR1uZnpZd");
 
    $email = trim($_POST['mail']);
 
