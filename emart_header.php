@@ -255,7 +255,7 @@
 						</div> 
 					</div>
 					<div class="col-3 ml-5 text-white text-right" style="padding-top: 15px; font-size: 20px;">
-						<a href="mycart.php" style="text-decoration: none; color: white; padding: 14px;">
+						<a href="myCart.php" style="text-decoration: none; color: white; padding: 14px;">
 							<i class="fas fa-shopping-cart" style="font-size: 18px;"></i>&nbsp;Cart
 						</a>
 					</div>
